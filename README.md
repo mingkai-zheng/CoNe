@@ -1,4 +1,4 @@
-# What Matters for Supervised Contrastive Learning?
+# CoNe: Contrast Your Neighbours for Supervised Image Classification
 
 This repository contains PyTorch evaluation code, training code and pretrained models for CoNe.
 

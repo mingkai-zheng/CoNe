@@ -17,3 +17,14 @@ We also provide the pretrained model for ResNet50
 
 If you want to test the pretained model, please download the weights from the link above, and move it to the checkpoints folder (create one if you don't have .checkpoints/ directory). The evaluation scripts also has been provided in script/train.sh
 
+
+## Citation
+If you find that SimMatch interesting and help your research, please consider citing it:
+```
+@article{zheng2023cone,
+  title={CoNe: Contrast Your Neighbours for Supervised Image Classification},
+  author={Zheng, Mingkai and You, Shan and Huang, Lang and Su, Xiu and Wang, Fei and Qian, Chen and Wang, Xiaogang and Xu, Chang},
+  journal={arXiv preprint arXiv:2308.10761},
+  year={2023}
+}
+```
